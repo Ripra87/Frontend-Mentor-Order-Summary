@@ -13,7 +13,7 @@ body {
 
 main {
     background-color: white;
-    border-radius: 6%;
+    border-radius: 10px;
     width: 28.12em;
     display:flex;
     flex-direction:column;
@@ -85,7 +85,7 @@ p {
         height: 3rem;
         background-color: hsl(245, 75%, 52%);
         color: white;
-        border-radius: 10%;
+        border-radius: 10px;
         border: 0;
     }
 
