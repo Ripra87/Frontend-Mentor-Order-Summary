@@ -31,8 +31,8 @@ p {
 }
 
 .image {
-    border-top-left-radius: 6%;
-    border-top-right-radius: 6%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 
 .order-summary {
@@ -52,7 +52,7 @@ p {
     width: 18.75rem;
     height: 3rem;
     padding: 1.7rem;
-    border-radius: 6%;
+    border-radius: 10px;
     display:flex;
     flex-direction: row;
     justify-content:space-between;
